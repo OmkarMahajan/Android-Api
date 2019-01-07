@@ -1,0 +1,6 @@
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\bin\Release\ReportAccessLib.dll
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\bin\Release\ReportAccessLib.pdb
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Release\ReportAccessLib.csprojAssemblyReference.cache
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Release\ReportAccessLib.csproj.CoreCompileInputs.cache
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Release\ReportAccessLib.dll
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Release\ReportAccessLib.pdb

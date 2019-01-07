@@ -1,0 +1,5 @@
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\bin\Debug\ReportAccessLib.dll
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\bin\Debug\ReportAccessLib.pdb
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Debug\ReportAccessLib.csproj.CoreCompileInputs.cache
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Debug\ReportAccessLib.dll
+E:\visualprojects\IrisDame\TradeRepo\ReportAccessLib\obj\Debug\ReportAccessLib.pdb

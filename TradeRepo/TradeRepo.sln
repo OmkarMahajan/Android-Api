@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeRepo", "TradeRepo\TradeRepo.csproj", "{E5313D54-B97C-434B-AAB6-770FA6749CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportAccessLib", "ReportAccessLib\ReportAccessLib.csproj", "{18D768C2-CD81-467E-9719-16704E1D865D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5313D54-B97C-434B-AAB6-770FA6749CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5313D54-B97C-434B-AAB6-770FA6749CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5313D54-B97C-434B-AAB6-770FA6749CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5313D54-B97C-434B-AAB6-770FA6749CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D768C2-CD81-467E-9719-16704E1D865D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D768C2-CD81-467E-9719-16704E1D865D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D768C2-CD81-467E-9719-16704E1D865D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D768C2-CD81-467E-9719-16704E1D865D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE488E82-490D-438C-8F9B-448B5D75473D}
+	EndGlobalSection
+EndGlobal
